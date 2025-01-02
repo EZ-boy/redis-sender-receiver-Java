@@ -1,4 +1,4 @@
-package com.ls.gs.sender;
+package com.lfx.sender;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
