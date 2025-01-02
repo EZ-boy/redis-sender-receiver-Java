@@ -1,0 +1,30 @@
+HELP.md
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# 忽略target文件夹
+target/
+
+# 忽略.idea文件夹
+.idea/
+
+# 忽略logs文件夹
+logs/
+
+# 忽略其他可能的临时文件或编译生成的文件
+*.class
+*.log
+*.swp
+*.tmp
+*.bak
+
+# 忽略.mvn文件夹
+.mvn/
+
+# 忽略mvnw文件及其相关的脚本文件
+mvnw
+mvnw.cmd
+mvnw.sh
